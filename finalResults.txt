@@ -1,0 +1,16 @@
+For Generations: 50 and Population: 4, average path cost over 30 trials is 69, and best result was 47
+For Generations: 100 and Population: 4, average path cost over 30 trials is 74, and best result was 48
+For Generations: 200 and Population: 4, average path cost over 30 trials is 72, and best result was 46
+For Generations: 50 and Population: 8, average path cost over 30 trials is 62, and best result was 35
+For Generations: 100 and Population: 8, average path cost over 30 trials is 56, and best result was 35
+For Generations: 200 and Population: 8, average path cost over 30 trials is 59, and best result was 42
+For Generations: 50 and Population: 12, average path cost over 30 trials is 55, and best result was 36
+For Generations: 100 and Population: 12, average path cost over 30 trials is 51, and best result was 35
+For Generations: 200 and Population: 12, average path cost over 30 trials is 49, and best result was 36
+For Generations: 50 and Population: 16, average path cost over 30 trials is 51, and best result was 35
+For Generations: 100 and Population: 16, average path cost over 30 trials is 46, and best result was 35
+For Generations: 200 and Population: 16, average path cost over 30 trials is 46, and best result was 35
+For Generations: 50 and Population: 20, average path cost over 30 trials is 49, and best result was 35
+For Generations: 100 and Population: 20, average path cost over 30 trials is 44, and best result was 35
+For Generations: 200 and Population: 20, average path cost over 30 trials is 41, and best result was 35
+Overall Best was 35

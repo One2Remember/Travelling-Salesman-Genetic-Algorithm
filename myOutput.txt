@@ -1,0 +1,1006 @@
+Generations: 50, Pop: 4
+
+8 -> 3 -> 4 -> 5 -> 7 -> 6 -> 2 -> 1 -> 9 -> 8
+Solution has path cost: 57
+6 -> 5 -> 9 -> 2 -> 7 -> 4 -> 1 -> 3 -> 8 -> 6
+Solution has path cost: 82
+6 -> 2 -> 5 -> 9 -> 4 -> 8 -> 3 -> 7 -> 1 -> 6
+Solution has path cost: 72
+4 -> 9 -> 6 -> 2 -> 7 -> 1 -> 3 -> 8 -> 5 -> 4
+Solution has path cost: 67
+6 -> 5 -> 8 -> 1 -> 4 -> 9 -> 2 -> 7 -> 3 -> 6
+Solution has path cost: 85
+1 -> 7 -> 6 -> 4 -> 9 -> 2 -> 3 -> 8 -> 5 -> 1
+Solution has path cost: 106
+7 -> 2 -> 5 -> 4 -> 9 -> 6 -> 1 -> 8 -> 3 -> 7
+Solution has path cost: 57
+4 -> 1 -> 9 -> 5 -> 2 -> 6 -> 7 -> 3 -> 8 -> 4
+Solution has path cost: 64
+5 -> 7 -> 9 -> 8 -> 1 -> 2 -> 3 -> 4 -> 6 -> 5
+Solution has path cost: 73
+9 -> 6 -> 4 -> 5 -> 2 -> 7 -> 3 -> 8 -> 1 -> 9
+Solution has path cost: 51
+1 -> 9 -> 8 -> 4 -> 3 -> 7 -> 2 -> 5 -> 6 -> 1
+Solution has path cost: 72
+9 -> 7 -> 3 -> 1 -> 5 -> 8 -> 2 -> 4 -> 6 -> 9
+Solution has path cost: 91
+8 -> 2 -> 5 -> 7 -> 6 -> 1 -> 9 -> 4 -> 3 -> 8
+Solution has path cost: 80
+5 -> 1 -> 2 -> 3 -> 4 -> 8 -> 6 -> 9 -> 7 -> 5
+Solution has path cost: 83
+9 -> 7 -> 6 -> 8 -> 3 -> 2 -> 1 -> 4 -> 5 -> 9
+Solution has path cost: 75
+2 -> 9 -> 1 -> 3 -> 7 -> 5 -> 8 -> 4 -> 6 -> 2
+Solution has path cost: 72
+9 -> 6 -> 8 -> 2 -> 1 -> 5 -> 3 -> 7 -> 4 -> 9
+Solution has path cost: 85
+2 -> 3 -> 7 -> 5 -> 4 -> 8 -> 6 -> 9 -> 1 -> 2
+Solution has path cost: 60
+4 -> 1 -> 2 -> 6 -> 9 -> 3 -> 8 -> 5 -> 7 -> 4
+Solution has path cost: 52
+7 -> 3 -> 4 -> 1 -> 6 -> 2 -> 5 -> 8 -> 9 -> 7
+Solution has path cost: 60
+5 -> 8 -> 3 -> 4 -> 6 -> 9 -> 1 -> 2 -> 7 -> 5
+Solution has path cost: 48
+6 -> 9 -> 3 -> 1 -> 4 -> 5 -> 7 -> 8 -> 2 -> 6
+Solution has path cost: 82
+1 -> 6 -> 8 -> 7 -> 5 -> 9 -> 3 -> 2 -> 4 -> 1
+Solution has path cost: 89
+4 -> 1 -> 2 -> 5 -> 9 -> 6 -> 8 -> 3 -> 7 -> 4
+Solution has path cost: 47
+9 -> 7 -> 3 -> 8 -> 6 -> 2 -> 1 -> 4 -> 5 -> 9
+Solution has path cost: 48
+3 -> 1 -> 4 -> 6 -> 9 -> 8 -> 2 -> 7 -> 5 -> 3
+Solution has path cost: 81
+2 -> 3 -> 4 -> 1 -> 9 -> 8 -> 6 -> 5 -> 7 -> 2
+Solution has path cost: 65
+2 -> 1 -> 5 -> 8 -> 3 -> 4 -> 9 -> 6 -> 7 -> 2
+Solution has path cost: 71
+6 -> 4 -> 3 -> 8 -> 9 -> 5 -> 7 -> 2 -> 1 -> 6
+Solution has path cost: 57
+6 -> 9 -> 1 -> 2 -> 5 -> 4 -> 8 -> 3 -> 7 -> 6
+Solution has path cost: 63
+8 -> 2 -> 6 -> 5 -> 7 -> 3 -> 9 -> 1 -> 4 -> 8
+Solution has path cost: 74
+
+For Generations: 50 and Population: 4, average path cost over 30 trials is 69, and best result was 47 
+
+Generations: 100, Pop: 4
+
+7 -> 4 -> 3 -> 8 -> 6 -> 1 -> 2 -> 9 -> 5 -> 7
+Solution has path cost: 75
+4 -> 6 -> 8 -> 3 -> 5 -> 7 -> 2 -> 9 -> 1 -> 4
+Solution has path cost: 74
+6 -> 5 -> 7 -> 2 -> 1 -> 4 -> 8 -> 3 -> 9 -> 6
+Solution has path cost: 63
+8 -> 9 -> 1 -> 4 -> 3 -> 5 -> 2 -> 6 -> 7 -> 8
+Solution has path cost: 86
+1 -> 3 -> 8 -> 5 -> 7 -> 6 -> 9 -> 4 -> 2 -> 1
+Solution has path cost: 67
+5 -> 7 -> 3 -> 8 -> 4 -> 1 -> 9 -> 6 -> 2 -> 5
+Solution has path cost: 48
+3 -> 4 -> 6 -> 5 -> 9 -> 1 -> 2 -> 7 -> 8 -> 3
+Solution has path cost: 69
+8 -> 1 -> 2 -> 3 -> 7 -> 9 -> 5 -> 4 -> 6 -> 8
+Solution has path cost: 66
+5 -> 1 -> 3 -> 8 -> 4 -> 9 -> 2 -> 6 -> 7 -> 5
+Solution has path cost: 95
+3 -> 7 -> 1 -> 8 -> 5 -> 9 -> 6 -> 4 -> 2 -> 3
+Solution has path cost: 81
+8 -> 1 -> 9 -> 6 -> 2 -> 3 -> 4 -> 7 -> 5 -> 8
+Solution has path cost: 69
+2 -> 1 -> 8 -> 6 -> 5 -> 9 -> 3 -> 7 -> 4 -> 2
+Solution has path cost: 72
+4 -> 6 -> 1 -> 3 -> 5 -> 8 -> 9 -> 2 -> 7 -> 4
+Solution has path cost: 100
+3 -> 1 -> 9 -> 8 -> 6 -> 2 -> 4 -> 7 -> 5 -> 3
+Solution has path cost: 79
+9 -> 2 -> 3 -> 7 -> 6 -> 8 -> 1 -> 4 -> 5 -> 9
+Solution has path cost: 86
+3 -> 2 -> 6 -> 7 -> 4 -> 8 -> 9 -> 1 -> 5 -> 3
+Solution has path cost: 110
+2 -> 8 -> 9 -> 4 -> 3 -> 5 -> 7 -> 6 -> 1 -> 2
+Solution has path cost: 92
+2 -> 5 -> 7 -> 9 -> 4 -> 1 -> 3 -> 8 -> 6 -> 2
+Solution has path cost: 54
+5 -> 7 -> 3 -> 2 -> 1 -> 4 -> 6 -> 8 -> 9 -> 5
+Solution has path cost: 50
+7 -> 1 -> 2 -> 8 -> 3 -> 4 -> 6 -> 9 -> 5 -> 7
+Solution has path cost: 73
+3 -> 5 -> 9 -> 4 -> 1 -> 2 -> 7 -> 8 -> 6 -> 3
+Solution has path cost: 89
+3 -> 8 -> 5 -> 6 -> 7 -> 2 -> 4 -> 9 -> 1 -> 3
+Solution has path cost: 80
+8 -> 4 -> 1 -> 5 -> 7 -> 2 -> 3 -> 9 -> 6 -> 8
+Solution has path cost: 82
+4 -> 1 -> 2 -> 6 -> 7 -> 8 -> 3 -> 5 -> 9 -> 4
+Solution has path cost: 80
+3 -> 1 -> 9 -> 7 -> 4 -> 6 -> 2 -> 5 -> 8 -> 3
+Solution has path cost: 67
+7 -> 5 -> 6 -> 9 -> 4 -> 3 -> 8 -> 1 -> 2 -> 7
+Solution has path cost: 55
+7 -> 9 -> 5 -> 2 -> 1 -> 8 -> 6 -> 4 -> 3 -> 7
+Solution has path cost: 57
+3 -> 4 -> 6 -> 5 -> 8 -> 7 -> 9 -> 1 -> 2 -> 3
+Solution has path cost: 84
+5 -> 8 -> 1 -> 2 -> 7 -> 9 -> 4 -> 3 -> 6 -> 5
+Solution has path cost: 83
+2 -> 1 -> 9 -> 4 -> 5 -> 6 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 48
+7 -> 3 -> 8 -> 1 -> 6 -> 5 -> 2 -> 4 -> 9 -> 7
+Solution has path cost: 74
+
+For Generations: 100 and Population: 4, average path cost over 30 trials is 74, and best result was 48 
+
+Generations: 200, Pop: 4
+
+2 -> 7 -> 8 -> 5 -> 4 -> 6 -> 9 -> 1 -> 3 -> 2
+Solution has path cost: 81
+4 -> 9 -> 5 -> 8 -> 6 -> 2 -> 1 -> 3 -> 7 -> 4
+Solution has path cost: 54
+5 -> 7 -> 3 -> 4 -> 6 -> 9 -> 8 -> 1 -> 2 -> 5
+Solution has path cost: 46
+8 -> 3 -> 6 -> 7 -> 5 -> 2 -> 4 -> 9 -> 1 -> 8
+Solution has path cost: 84
+1 -> 5 -> 8 -> 4 -> 3 -> 2 -> 6 -> 9 -> 7 -> 1
+Solution has path cost: 100
+2 -> 7 -> 3 -> 4 -> 6 -> 8 -> 9 -> 5 -> 1 -> 2
+Solution has path cost: 59
+9 -> 4 -> 1 -> 7 -> 3 -> 8 -> 6 -> 5 -> 2 -> 9
+Solution has path cost: 72
+6 -> 1 -> 3 -> 7 -> 2 -> 5 -> 4 -> 9 -> 8 -> 6
+Solution has path cost: 60
+1 -> 6 -> 8 -> 5 -> 7 -> 2 -> 3 -> 4 -> 9 -> 1
+Solution has path cost: 68
+6 -> 9 -> 3 -> 4 -> 1 -> 2 -> 5 -> 7 -> 8 -> 6
+Solution has path cost: 61
+6 -> 4 -> 2 -> 3 -> 7 -> 1 -> 8 -> 9 -> 5 -> 6
+Solution has path cost: 86
+1 -> 2 -> 4 -> 5 -> 7 -> 3 -> 8 -> 9 -> 6 -> 1
+Solution has path cost: 55
+4 -> 2 -> 9 -> 7 -> 3 -> 8 -> 1 -> 5 -> 6 -> 4
+Solution has path cost: 93
+3 -> 8 -> 7 -> 5 -> 4 -> 2 -> 6 -> 1 -> 9 -> 3
+Solution has path cost: 78
+9 -> 6 -> 4 -> 1 -> 2 -> 7 -> 5 -> 8 -> 3 -> 9
+Solution has path cost: 49
+1 -> 2 -> 5 -> 9 -> 6 -> 7 -> 4 -> 3 -> 8 -> 1
+Solution has path cost: 71
+2 -> 6 -> 7 -> 3 -> 4 -> 8 -> 9 -> 1 -> 5 -> 2
+Solution has path cost: 78
+4 -> 6 -> 7 -> 8 -> 2 -> 3 -> 5 -> 9 -> 1 -> 4
+Solution has path cost: 111
+4 -> 5 -> 8 -> 1 -> 9 -> 7 -> 2 -> 6 -> 3 -> 4
+Solution has path cost: 82
+3 -> 9 -> 5 -> 1 -> 4 -> 6 -> 8 -> 2 -> 7 -> 3
+Solution has path cost: 77
+2 -> 7 -> 3 -> 1 -> 9 -> 6 -> 4 -> 5 -> 8 -> 2
+Solution has path cost: 69
+7 -> 3 -> 4 -> 1 -> 8 -> 5 -> 9 -> 6 -> 2 -> 7
+Solution has path cost: 53
+1 -> 5 -> 9 -> 8 -> 6 -> 7 -> 3 -> 4 -> 2 -> 1
+Solution has path cost: 76
+1 -> 2 -> 6 -> 7 -> 8 -> 9 -> 5 -> 4 -> 3 -> 1
+Solution has path cost: 80
+8 -> 6 -> 5 -> 9 -> 1 -> 7 -> 3 -> 4 -> 2 -> 8
+Solution has path cost: 88
+3 -> 4 -> 5 -> 8 -> 6 -> 1 -> 9 -> 2 -> 7 -> 3
+Solution has path cost: 73
+3 -> 4 -> 6 -> 7 -> 5 -> 8 -> 1 -> 9 -> 2 -> 3
+Solution has path cost: 90
+5 -> 2 -> 1 -> 4 -> 7 -> 3 -> 8 -> 9 -> 6 -> 5
+Solution has path cost: 51
+6 -> 4 -> 7 -> 5 -> 2 -> 1 -> 8 -> 3 -> 9 -> 6
+Solution has path cost: 58
+3 -> 4 -> 6 -> 8 -> 5 -> 9 -> 1 -> 2 -> 7 -> 3
+Solution has path cost: 49
+5 -> 8 -> 9 -> 7 -> 4 -> 6 -> 1 -> 2 -> 3 -> 5
+Solution has path cost: 92
+
+For Generations: 200 and Population: 4, average path cost over 30 trials is 72, and best result was 46 
+
+Generations: 50, Pop: 8
+
+2 -> 7 -> 8 -> 1 -> 3 -> 4 -> 9 -> 6 -> 5 -> 2
+Solution has path cost: 79
+1 -> 4 -> 3 -> 7 -> 5 -> 8 -> 9 -> 6 -> 2 -> 1
+Solution has path cost: 40
+2 -> 1 -> 8 -> 9 -> 3 -> 7 -> 5 -> 4 -> 6 -> 2
+Solution has path cost: 49
+2 -> 5 -> 7 -> 3 -> 1 -> 8 -> 4 -> 9 -> 6 -> 2
+Solution has path cost: 59
+4 -> 8 -> 3 -> 1 -> 2 -> 7 -> 5 -> 6 -> 9 -> 4
+Solution has path cost: 64
+4 -> 9 -> 6 -> 1 -> 3 -> 8 -> 7 -> 2 -> 5 -> 4
+Solution has path cost: 75
+8 -> 3 -> 1 -> 4 -> 5 -> 7 -> 9 -> 6 -> 2 -> 8
+Solution has path cost: 71
+7 -> 3 -> 9 -> 1 -> 2 -> 6 -> 4 -> 5 -> 8 -> 7
+Solution has path cost: 60
+4 -> 5 -> 8 -> 9 -> 1 -> 6 -> 2 -> 7 -> 3 -> 4
+Solution has path cost: 58
+3 -> 9 -> 8 -> 1 -> 5 -> 7 -> 2 -> 6 -> 4 -> 3
+Solution has path cost: 70
+2 -> 4 -> 3 -> 7 -> 9 -> 1 -> 8 -> 5 -> 6 -> 2
+Solution has path cost: 71
+7 -> 2 -> 1 -> 9 -> 5 -> 4 -> 3 -> 8 -> 6 -> 7
+Solution has path cost: 64
+8 -> 5 -> 6 -> 2 -> 1 -> 4 -> 3 -> 7 -> 9 -> 8
+Solution has path cost: 55
+6 -> 9 -> 4 -> 3 -> 8 -> 7 -> 2 -> 1 -> 5 -> 6
+Solution has path cost: 76
+8 -> 6 -> 3 -> 7 -> 4 -> 9 -> 1 -> 2 -> 5 -> 8
+Solution has path cost: 64
+2 -> 1 -> 4 -> 7 -> 5 -> 9 -> 6 -> 8 -> 3 -> 2
+Solution has path cost: 59
+1 -> 3 -> 9 -> 4 -> 6 -> 2 -> 7 -> 5 -> 8 -> 1
+Solution has path cost: 62
+4 -> 6 -> 9 -> 3 -> 2 -> 1 -> 5 -> 7 -> 8 -> 4
+Solution has path cost: 91
+9 -> 5 -> 4 -> 6 -> 8 -> 1 -> 2 -> 7 -> 3 -> 9
+Solution has path cost: 56
+4 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4
+Solution has path cost: 35
+2 -> 7 -> 3 -> 8 -> 1 -> 5 -> 4 -> 6 -> 9 -> 2
+Solution has path cost: 76
+6 -> 9 -> 1 -> 4 -> 5 -> 2 -> 7 -> 3 -> 8 -> 6
+Solution has path cost: 45
+3 -> 7 -> 4 -> 9 -> 6 -> 8 -> 5 -> 2 -> 1 -> 3
+Solution has path cost: 53
+1 -> 4 -> 5 -> 9 -> 6 -> 2 -> 7 -> 3 -> 8 -> 1
+Solution has path cost: 50
+4 -> 6 -> 9 -> 7 -> 3 -> 2 -> 5 -> 8 -> 1 -> 4
+Solution has path cost: 65
+9 -> 8 -> 3 -> 2 -> 6 -> 4 -> 5 -> 7 -> 1 -> 9
+Solution has path cost: 68
+2 -> 6 -> 8 -> 9 -> 3 -> 7 -> 5 -> 4 -> 1 -> 2
+Solution has path cost: 43
+3 -> 8 -> 9 -> 1 -> 2 -> 4 -> 6 -> 5 -> 7 -> 3
+Solution has path cost: 52
+5 -> 8 -> 9 -> 4 -> 1 -> 3 -> 7 -> 2 -> 6 -> 5
+Solution has path cost: 55
+1 -> 2 -> 4 -> 9 -> 6 -> 3 -> 7 -> 8 -> 5 -> 1
+Solution has path cost: 88
+2 -> 1 -> 8 -> 6 -> 5 -> 7 -> 9 -> 4 -> 3 -> 2
+Solution has path cost: 71
+
+For Generations: 50 and Population: 8, average path cost over 30 trials is 62, and best result was 35 
+
+Generations: 100, Pop: 8
+
+5 -> 7 -> 3 -> 1 -> 2 -> 6 -> 8 -> 4 -> 9 -> 5
+Solution has path cost: 54
+1 -> 2 -> 6 -> 8 -> 9 -> 5 -> 7 -> 3 -> 4 -> 1
+Solution has path cost: 41
+8 -> 3 -> 1 -> 2 -> 5 -> 7 -> 4 -> 9 -> 6 -> 8
+Solution has path cost: 53
+7 -> 3 -> 4 -> 1 -> 9 -> 2 -> 6 -> 8 -> 5 -> 7
+Solution has path cost: 57
+5 -> 9 -> 4 -> 7 -> 3 -> 8 -> 1 -> 2 -> 6 -> 5
+Solution has path cost: 56
+6 -> 2 -> 5 -> 7 -> 3 -> 9 -> 8 -> 1 -> 4 -> 6
+Solution has path cost: 49
+7 -> 3 -> 4 -> 5 -> 1 -> 9 -> 8 -> 6 -> 2 -> 7
+Solution has path cost: 60
+4 -> 7 -> 5 -> 9 -> 3 -> 8 -> 6 -> 2 -> 1 -> 4
+Solution has path cost: 53
+5 -> 7 -> 3 -> 2 -> 6 -> 4 -> 9 -> 8 -> 1 -> 5
+Solution has path cost: 65
+4 -> 6 -> 2 -> 5 -> 8 -> 9 -> 7 -> 3 -> 1 -> 4
+Solution has path cost: 56
+9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 5 -> 7 -> 3 -> 9
+Solution has path cost: 41
+5 -> 2 -> 6 -> 4 -> 9 -> 1 -> 7 -> 3 -> 8 -> 5
+Solution has path cost: 54
+3 -> 9 -> 8 -> 5 -> 2 -> 1 -> 6 -> 4 -> 7 -> 3
+Solution has path cost: 62
+3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 9 -> 8 -> 6 -> 3
+Solution has path cost: 53
+8 -> 5 -> 7 -> 3 -> 2 -> 1 -> 4 -> 6 -> 9 -> 8
+Solution has path cost: 49
+9 -> 4 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 9
+Solution has path cost: 37
+9 -> 8 -> 6 -> 1 -> 3 -> 7 -> 2 -> 5 -> 4 -> 9
+Solution has path cost: 60
+4 -> 3 -> 1 -> 5 -> 7 -> 2 -> 6 -> 8 -> 9 -> 4
+Solution has path cost: 65
+3 -> 1 -> 4 -> 5 -> 7 -> 2 -> 6 -> 8 -> 9 -> 3
+Solution has path cost: 58
+8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 9 -> 6 -> 8
+Solution has path cost: 35
+8 -> 9 -> 4 -> 6 -> 3 -> 1 -> 2 -> 7 -> 5 -> 8
+Solution has path cost: 68
+8 -> 9 -> 1 -> 4 -> 5 -> 7 -> 3 -> 2 -> 6 -> 8
+Solution has path cost: 51
+5 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 7 -> 3 -> 5
+Solution has path cost: 55
+3 -> 9 -> 5 -> 7 -> 8 -> 6 -> 1 -> 2 -> 4 -> 3
+Solution has path cost: 80
+5 -> 8 -> 1 -> 9 -> 4 -> 6 -> 2 -> 7 -> 3 -> 5
+Solution has path cost: 63
+5 -> 2 -> 1 -> 4 -> 6 -> 3 -> 7 -> 8 -> 9 -> 5
+Solution has path cost: 71
+4 -> 7 -> 3 -> 1 -> 9 -> 5 -> 2 -> 6 -> 8 -> 4
+Solution has path cost: 67
+2 -> 6 -> 8 -> 1 -> 9 -> 5 -> 7 -> 3 -> 4 -> 2
+Solution has path cost: 57
+3 -> 8 -> 6 -> 4 -> 9 -> 1 -> 2 -> 5 -> 7 -> 3
+Solution has path cost: 37
+5 -> 7 -> 9 -> 1 -> 2 -> 4 -> 6 -> 8 -> 3 -> 5
+Solution has path cost: 71
+6 -> 4 -> 5 -> 9 -> 1 -> 8 -> 7 -> 3 -> 2 -> 6
+Solution has path cost: 73
+
+For Generations: 100 and Population: 8, average path cost over 30 trials is 56, and best result was 35 
+
+Generations: 200, Pop: 8
+
+5 -> 7 -> 1 -> 9 -> 4 -> 6 -> 8 -> 3 -> 2 -> 5
+Solution has path cost: 66
+8 -> 6 -> 2 -> 5 -> 7 -> 3 -> 4 -> 1 -> 9 -> 8
+Solution has path cost: 42
+3 -> 8 -> 1 -> 2 -> 5 -> 9 -> 6 -> 4 -> 7 -> 3
+Solution has path cost: 53
+5 -> 7 -> 2 -> 6 -> 4 -> 9 -> 8 -> 3 -> 1 -> 5
+Solution has path cost: 62
+5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 1 -> 4 -> 2 -> 5
+Solution has path cost: 47
+2 -> 1 -> 4 -> 8 -> 6 -> 9 -> 3 -> 7 -> 5 -> 2
+Solution has path cost: 52
+4 -> 5 -> 9 -> 6 -> 8 -> 1 -> 3 -> 7 -> 2 -> 4
+Solution has path cost: 67
+4 -> 5 -> 8 -> 1 -> 9 -> 3 -> 2 -> 7 -> 6 -> 4
+Solution has path cost: 84
+2 -> 7 -> 3 -> 8 -> 6 -> 4 -> 9 -> 1 -> 5 -> 2
+Solution has path cost: 55
+3 -> 4 -> 9 -> 8 -> 6 -> 2 -> 1 -> 7 -> 5 -> 3
+Solution has path cost: 69
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 5 -> 2 -> 7
+Solution has path cost: 53
+8 -> 2 -> 1 -> 7 -> 3 -> 9 -> 6 -> 4 -> 5 -> 8
+Solution has path cost: 75
+1 -> 2 -> 3 -> 7 -> 5 -> 6 -> 9 -> 4 -> 8 -> 1
+Solution has path cost: 67
+3 -> 7 -> 5 -> 2 -> 1 -> 8 -> 6 -> 4 -> 9 -> 3
+Solution has path cost: 47
+6 -> 5 -> 7 -> 3 -> 1 -> 2 -> 4 -> 8 -> 9 -> 6
+Solution has path cost: 68
+3 -> 8 -> 5 -> 2 -> 1 -> 6 -> 4 -> 9 -> 7 -> 3
+Solution has path cost: 55
+4 -> 1 -> 2 -> 6 -> 8 -> 9 -> 3 -> 7 -> 5 -> 4
+Solution has path cost: 43
+5 -> 7 -> 3 -> 8 -> 9 -> 4 -> 6 -> 2 -> 1 -> 5
+Solution has path cost: 47
+1 -> 9 -> 6 -> 5 -> 7 -> 2 -> 8 -> 3 -> 4 -> 1
+Solution has path cost: 68
+7 -> 4 -> 1 -> 2 -> 6 -> 5 -> 8 -> 3 -> 9 -> 7
+Solution has path cost: 67
+7 -> 2 -> 1 -> 4 -> 3 -> 5 -> 8 -> 9 -> 6 -> 7
+Solution has path cost: 75
+6 -> 8 -> 5 -> 4 -> 2 -> 7 -> 3 -> 1 -> 9 -> 6
+Solution has path cost: 62
+4 -> 8 -> 2 -> 1 -> 9 -> 6 -> 5 -> 7 -> 3 -> 4
+Solution has path cost: 71
+8 -> 1 -> 2 -> 6 -> 5 -> 4 -> 7 -> 3 -> 9 -> 8
+Solution has path cost: 63
+8 -> 3 -> 4 -> 1 -> 9 -> 6 -> 2 -> 5 -> 7 -> 8
+Solution has path cost: 57
+6 -> 4 -> 3 -> 7 -> 9 -> 8 -> 1 -> 2 -> 5 -> 6
+Solution has path cost: 61
+6 -> 9 -> 3 -> 7 -> 5 -> 4 -> 2 -> 1 -> 8 -> 6
+Solution has path cost: 57
+6 -> 8 -> 3 -> 7 -> 2 -> 5 -> 9 -> 1 -> 4 -> 6
+Solution has path cost: 46
+7 -> 5 -> 9 -> 6 -> 4 -> 2 -> 1 -> 8 -> 3 -> 7
+Solution has path cost: 52
+8 -> 1 -> 3 -> 4 -> 9 -> 5 -> 7 -> 2 -> 6 -> 8
+Solution has path cost: 60
+8 -> 1 -> 6 -> 2 -> 7 -> 5 -> 4 -> 3 -> 9 -> 8
+Solution has path cost: 68
+
+For Generations: 200 and Population: 8, average path cost over 30 trials is 59, and best result was 42 
+
+Generations: 50, Pop: 12
+
+2 -> 6 -> 7 -> 5 -> 8 -> 4 -> 1 -> 9 -> 3 -> 2
+Solution has path cost: 81
+7 -> 3 -> 1 -> 2 -> 6 -> 4 -> 5 -> 8 -> 9 -> 7
+Solution has path cost: 56
+7 -> 3 -> 5 -> 2 -> 1 -> 4 -> 6 -> 8 -> 9 -> 7
+Solution has path cost: 61
+2 -> 1 -> 4 -> 8 -> 3 -> 7 -> 6 -> 9 -> 5 -> 2
+Solution has path cost: 62
+9 -> 6 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 9
+Solution has path cost: 37
+7 -> 5 -> 4 -> 1 -> 2 -> 6 -> 8 -> 9 -> 3 -> 7
+Solution has path cost: 43
+6 -> 2 -> 1 -> 4 -> 3 -> 7 -> 5 -> 9 -> 8 -> 6
+Solution has path cost: 41
+4 -> 3 -> 7 -> 9 -> 1 -> 2 -> 5 -> 6 -> 8 -> 4
+Solution has path cost: 66
+5 -> 8 -> 6 -> 2 -> 1 -> 9 -> 7 -> 3 -> 4 -> 5
+Solution has path cost: 52
+2 -> 7 -> 5 -> 6 -> 8 -> 1 -> 9 -> 4 -> 3 -> 2
+Solution has path cost: 69
+9 -> 8 -> 3 -> 1 -> 4 -> 6 -> 2 -> 5 -> 7 -> 9
+Solution has path cost: 56
+2 -> 1 -> 7 -> 5 -> 9 -> 4 -> 6 -> 8 -> 3 -> 2
+Solution has path cost: 65
+6 -> 4 -> 1 -> 9 -> 5 -> 8 -> 3 -> 7 -> 2 -> 6
+Solution has path cost: 46
+3 -> 5 -> 2 -> 1 -> 8 -> 6 -> 9 -> 7 -> 4 -> 3
+Solution has path cost: 79
+8 -> 6 -> 4 -> 1 -> 2 -> 5 -> 9 -> 7 -> 3 -> 8
+Solution has path cost: 48
+3 -> 7 -> 5 -> 8 -> 1 -> 2 -> 6 -> 9 -> 4 -> 3
+Solution has path cost: 44
+9 -> 8 -> 3 -> 4 -> 6 -> 5 -> 7 -> 2 -> 1 -> 9
+Solution has path cost: 53
+2 -> 5 -> 7 -> 9 -> 8 -> 3 -> 1 -> 4 -> 6 -> 2
+Solution has path cost: 56
+5 -> 8 -> 3 -> 9 -> 1 -> 4 -> 6 -> 2 -> 7 -> 5
+Solution has path cost: 51
+3 -> 7 -> 5 -> 9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 3
+Solution has path cost: 36
+2 -> 7 -> 3 -> 8 -> 5 -> 4 -> 6 -> 9 -> 1 -> 2
+Solution has path cost: 45
+7 -> 5 -> 9 -> 8 -> 1 -> 2 -> 6 -> 4 -> 3 -> 7
+Solution has path cost: 47
+3 -> 1 -> 9 -> 6 -> 2 -> 4 -> 8 -> 5 -> 7 -> 3
+Solution has path cost: 65
+9 -> 6 -> 2 -> 1 -> 4 -> 8 -> 5 -> 7 -> 3 -> 9
+Solution has path cost: 52
+8 -> 3 -> 7 -> 9 -> 5 -> 6 -> 2 -> 1 -> 4 -> 8
+Solution has path cost: 62
+1 -> 4 -> 5 -> 7 -> 2 -> 6 -> 9 -> 8 -> 3 -> 1
+Solution has path cost: 52
+7 -> 3 -> 8 -> 6 -> 4 -> 2 -> 1 -> 9 -> 5 -> 7
+Solution has path cost: 48
+4 -> 5 -> 7 -> 2 -> 6 -> 8 -> 1 -> 9 -> 3 -> 4
+Solution has path cost: 60
+3 -> 8 -> 5 -> 1 -> 4 -> 9 -> 6 -> 7 -> 2 -> 3
+Solution has path cost: 80
+7 -> 3 -> 4 -> 9 -> 1 -> 2 -> 6 -> 8 -> 5 -> 7
+Solution has path cost: 40
+3 -> 2 -> 6 -> 8 -> 1 -> 4 -> 7 -> 5 -> 9 -> 3
+Solution has path cost: 71
+
+For Generations: 50 and Population: 12, average path cost over 30 trials is 55, and best result was 36 
+
+Generations: 100, Pop: 12
+
+3 -> 7 -> 4 -> 1 -> 2 -> 5 -> 9 -> 6 -> 8 -> 3
+Solution has path cost: 47
+3 -> 8 -> 1 -> 9 -> 4 -> 6 -> 7 -> 5 -> 2 -> 3
+Solution has path cost: 70
+4 -> 6 -> 8 -> 9 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4
+Solution has path cost: 43
+2 -> 1 -> 4 -> 3 -> 7 -> 9 -> 6 -> 8 -> 5 -> 2
+Solution has path cost: 50
+5 -> 9 -> 1 -> 2 -> 7 -> 4 -> 3 -> 8 -> 6 -> 5
+Solution has path cost: 63
+1 -> 2 -> 7 -> 3 -> 4 -> 5 -> 8 -> 6 -> 9 -> 1
+Solution has path cost: 48
+1 -> 9 -> 6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 4 -> 1
+Solution has path cost: 48
+3 -> 7 -> 8 -> 6 -> 2 -> 5 -> 1 -> 9 -> 4 -> 3
+Solution has path cost: 67
+9 -> 6 -> 2 -> 1 -> 3 -> 8 -> 5 -> 4 -> 7 -> 9
+Solution has path cost: 65
+5 -> 7 -> 3 -> 8 -> 1 -> 9 -> 6 -> 2 -> 4 -> 5
+Solution has path cost: 53
+8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 35
+1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1
+Solution has path cost: 35
+4 -> 5 -> 8 -> 6 -> 9 -> 3 -> 7 -> 2 -> 1 -> 4
+Solution has path cost: 49
+3 -> 7 -> 2 -> 1 -> 4 -> 6 -> 9 -> 5 -> 8 -> 3
+Solution has path cost: 44
+5 -> 8 -> 3 -> 7 -> 2 -> 6 -> 9 -> 1 -> 4 -> 5
+Solution has path cost: 45
+1 -> 8 -> 9 -> 6 -> 4 -> 5 -> 2 -> 7 -> 3 -> 1
+Solution has path cost: 58
+3 -> 5 -> 8 -> 1 -> 2 -> 6 -> 9 -> 4 -> 7 -> 3
+Solution has path cost: 64
+8 -> 6 -> 1 -> 9 -> 4 -> 3 -> 7 -> 5 -> 2 -> 8
+Solution has path cost: 65
+5 -> 4 -> 6 -> 9 -> 1 -> 2 -> 7 -> 3 -> 8 -> 5
+Solution has path cost: 45
+7 -> 3 -> 1 -> 4 -> 9 -> 6 -> 8 -> 5 -> 2 -> 7
+Solution has path cost: 50
+7 -> 3 -> 1 -> 4 -> 9 -> 8 -> 6 -> 2 -> 5 -> 7
+Solution has path cost: 44
+1 -> 3 -> 7 -> 2 -> 4 -> 6 -> 9 -> 5 -> 8 -> 1
+Solution has path cost: 67
+4 -> 6 -> 5 -> 7 -> 2 -> 1 -> 3 -> 8 -> 9 -> 4
+Solution has path cost: 55
+4 -> 6 -> 9 -> 5 -> 8 -> 3 -> 7 -> 2 -> 1 -> 4
+Solution has path cost: 44
+4 -> 1 -> 2 -> 3 -> 7 -> 5 -> 9 -> 8 -> 6 -> 4
+Solution has path cost: 50
+2 -> 6 -> 9 -> 1 -> 4 -> 5 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 45
+9 -> 8 -> 3 -> 7 -> 5 -> 6 -> 2 -> 1 -> 4 -> 9
+Solution has path cost: 40
+5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5
+Solution has path cost: 35
+9 -> 8 -> 3 -> 7 -> 5 -> 4 -> 1 -> 2 -> 6 -> 9
+Solution has path cost: 37
+7 -> 5 -> 6 -> 9 -> 8 -> 3 -> 4 -> 1 -> 2 -> 7
+Solution has path cost: 51
+3 -> 8 -> 1 -> 9 -> 5 -> 2 -> 4 -> 6 -> 7 -> 3
+Solution has path cost: 69
+
+For Generations: 100 and Population: 12, average path cost over 30 trials is 51, and best result was 35 
+
+Generations: 200, Pop: 12
+
+7 -> 3 -> 8 -> 9 -> 6 -> 5 -> 4 -> 1 -> 2 -> 7
+Solution has path cost: 48
+9 -> 6 -> 2 -> 7 -> 5 -> 3 -> 8 -> 1 -> 4 -> 9
+Solution has path cost: 61
+7 -> 3 -> 8 -> 6 -> 4 -> 5 -> 2 -> 1 -> 9 -> 7
+Solution has path cost: 49
+5 -> 7 -> 2 -> 1 -> 4 -> 3 -> 8 -> 9 -> 6 -> 5
+Solution has path cost: 51
+8 -> 6 -> 2 -> 5 -> 7 -> 3 -> 1 -> 4 -> 9 -> 8
+Solution has path cost: 44
+3 -> 8 -> 6 -> 9 -> 5 -> 7 -> 2 -> 1 -> 4 -> 3
+Solution has path cost: 47
+2 -> 6 -> 4 -> 1 -> 8 -> 5 -> 9 -> 3 -> 7 -> 2
+Solution has path cost: 56
+5 -> 7 -> 3 -> 8 -> 6 -> 2 -> 1 -> 4 -> 9 -> 5
+Solution has path cost: 36
+8 -> 9 -> 1 -> 2 -> 6 -> 4 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 39
+8 -> 9 -> 6 -> 2 -> 1 -> 4 -> 3 -> 7 -> 5 -> 8
+Solution has path cost: 40
+3 -> 4 -> 5 -> 8 -> 1 -> 2 -> 6 -> 9 -> 7 -> 3
+Solution has path cost: 56
+2 -> 4 -> 9 -> 1 -> 8 -> 6 -> 5 -> 7 -> 3 -> 2
+Solution has path cost: 68
+5 -> 4 -> 6 -> 2 -> 1 -> 9 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 39
+3 -> 7 -> 5 -> 4 -> 9 -> 8 -> 1 -> 2 -> 6 -> 3
+Solution has path cost: 59
+3 -> 7 -> 4 -> 5 -> 8 -> 1 -> 2 -> 6 -> 9 -> 3
+Solution has path cost: 58
+8 -> 6 -> 2 -> 1 -> 4 -> 5 -> 3 -> 7 -> 9 -> 8
+Solution has path cost: 61
+7 -> 3 -> 8 -> 6 -> 4 -> 5 -> 9 -> 1 -> 2 -> 7
+Solution has path cost: 46
+3 -> 7 -> 5 -> 8 -> 9 -> 1 -> 2 -> 6 -> 4 -> 3
+Solution has path cost: 42
+1 -> 5 -> 8 -> 6 -> 4 -> 9 -> 3 -> 7 -> 2 -> 1
+Solution has path cost: 59
+6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 9 -> 1 -> 4 -> 6
+Solution has path cost: 39
+5 -> 9 -> 8 -> 3 -> 7 -> 2 -> 1 -> 4 -> 6 -> 5
+Solution has path cost: 49
+6 -> 8 -> 9 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 6
+Solution has path cost: 43
+9 -> 1 -> 4 -> 6 -> 2 -> 5 -> 8 -> 3 -> 7 -> 9
+Solution has path cost: 49
+4 -> 1 -> 2 -> 6 -> 5 -> 7 -> 3 -> 8 -> 9 -> 4
+Solution has path cost: 40
+4 -> 6 -> 8 -> 9 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4
+Solution has path cost: 43
+5 -> 9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 36
+8 -> 4 -> 5 -> 7 -> 3 -> 1 -> 9 -> 6 -> 2 -> 8
+Solution has path cost: 72
+8 -> 3 -> 7 -> 2 -> 1 -> 9 -> 6 -> 4 -> 5 -> 8
+Solution has path cost: 45
+1 -> 2 -> 7 -> 5 -> 4 -> 9 -> 6 -> 8 -> 3 -> 1
+Solution has path cost: 50
+4 -> 7 -> 9 -> 1 -> 6 -> 2 -> 5 -> 8 -> 3 -> 4
+Solution has path cost: 71
+2 -> 1 -> 3 -> 8 -> 9 -> 6 -> 4 -> 5 -> 7 -> 2
+Solution has path cost: 52
+
+For Generations: 200 and Population: 12, average path cost over 30 trials is 49, and best result was 36 
+
+Generations: 50, Pop: 16
+
+6 -> 4 -> 3 -> 7 -> 5 -> 8 -> 9 -> 1 -> 2 -> 6
+Solution has path cost: 42
+7 -> 5 -> 9 -> 8 -> 3 -> 4 -> 1 -> 6 -> 2 -> 7
+Solution has path cost: 57
+3 -> 7 -> 9 -> 5 -> 2 -> 6 -> 1 -> 4 -> 8 -> 3
+Solution has path cost: 67
+5 -> 8 -> 1 -> 4 -> 2 -> 6 -> 9 -> 3 -> 7 -> 5
+Solution has path cost: 57
+6 -> 2 -> 7 -> 5 -> 9 -> 3 -> 4 -> 1 -> 8 -> 6
+Solution has path cost: 59
+2 -> 7 -> 3 -> 9 -> 6 -> 4 -> 1 -> 8 -> 5 -> 2
+Solution has path cost: 55
+9 -> 8 -> 6 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 9
+Solution has path cost: 43
+2 -> 3 -> 7 -> 5 -> 8 -> 1 -> 4 -> 9 -> 6 -> 2
+Solution has path cost: 53
+7 -> 1 -> 4 -> 6 -> 9 -> 5 -> 2 -> 8 -> 3 -> 7
+Solution has path cost: 70
+2 -> 5 -> 7 -> 3 -> 4 -> 1 -> 8 -> 9 -> 6 -> 2
+Solution has path cost: 46
+2 -> 3 -> 7 -> 1 -> 4 -> 9 -> 6 -> 8 -> 5 -> 2
+Solution has path cost: 64
+5 -> 2 -> 1 -> 4 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 35
+1 -> 2 -> 6 -> 8 -> 3 -> 7 -> 5 -> 9 -> 4 -> 1
+Solution has path cost: 36
+1 -> 9 -> 6 -> 8 -> 5 -> 2 -> 7 -> 3 -> 4 -> 1
+Solution has path cost: 48
+1 -> 9 -> 4 -> 6 -> 5 -> 8 -> 3 -> 7 -> 2 -> 1
+Solution has path cost: 48
+3 -> 7 -> 2 -> 5 -> 8 -> 6 -> 9 -> 4 -> 1 -> 3
+Solution has path cost: 50
+9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 6 -> 9
+Solution has path cost: 35
+6 -> 8 -> 5 -> 7 -> 3 -> 4 -> 2 -> 1 -> 9 -> 6
+Solution has path cost: 50
+4 -> 6 -> 5 -> 2 -> 1 -> 9 -> 8 -> 3 -> 7 -> 4
+Solution has path cost: 53
+2 -> 6 -> 5 -> 4 -> 1 -> 9 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 50
+4 -> 1 -> 2 -> 7 -> 3 -> 8 -> 5 -> 9 -> 6 -> 4
+Solution has path cost: 44
+6 -> 2 -> 5 -> 7 -> 3 -> 1 -> 4 -> 9 -> 8 -> 6
+Solution has path cost: 44
+6 -> 2 -> 5 -> 7 -> 3 -> 9 -> 4 -> 1 -> 8 -> 6
+Solution has path cost: 47
+9 -> 4 -> 2 -> 1 -> 3 -> 7 -> 5 -> 8 -> 6 -> 9
+Solution has path cost: 52
+6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 4 -> 1 -> 9 -> 6
+Solution has path cost: 48
+9 -> 4 -> 7 -> 3 -> 8 -> 5 -> 6 -> 2 -> 1 -> 9
+Solution has path cost: 51
+4 -> 1 -> 9 -> 3 -> 8 -> 5 -> 7 -> 2 -> 6 -> 4
+Solution has path cost: 51
+9 -> 4 -> 1 -> 8 -> 6 -> 2 -> 3 -> 7 -> 5 -> 9
+Solution has path cost: 54
+5 -> 8 -> 1 -> 2 -> 6 -> 9 -> 4 -> 3 -> 7 -> 5
+Solution has path cost: 44
+8 -> 3 -> 1 -> 4 -> 6 -> 9 -> 7 -> 5 -> 2 -> 8
+Solution has path cost: 71
+6 -> 9 -> 5 -> 2 -> 7 -> 3 -> 1 -> 4 -> 8 -> 6
+Solution has path cost: 62
+
+For Generations: 50 and Population: 16, average path cost over 30 trials is 51, and best result was 35 
+
+Generations: 100, Pop: 16
+
+1 -> 2 -> 4 -> 9 -> 6 -> 8 -> 5 -> 7 -> 3 -> 1
+Solution has path cost: 52
+8 -> 1 -> 3 -> 7 -> 2 -> 5 -> 4 -> 6 -> 9 -> 8
+Solution has path cost: 58
+5 -> 6 -> 8 -> 9 -> 1 -> 2 -> 7 -> 3 -> 4 -> 5
+Solution has path cost: 53
+9 -> 1 -> 4 -> 6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 9
+Solution has path cost: 39
+1 -> 3 -> 7 -> 5 -> 2 -> 6 -> 4 -> 9 -> 8 -> 1
+Solution has path cost: 50
+8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 35
+6 -> 1 -> 2 -> 5 -> 7 -> 9 -> 8 -> 3 -> 4 -> 6
+Solution has path cost: 60
+3 -> 7 -> 5 -> 8 -> 1 -> 2 -> 6 -> 4 -> 9 -> 3
+Solution has path cost: 47
+4 -> 3 -> 7 -> 8 -> 6 -> 9 -> 1 -> 2 -> 5 -> 4
+Solution has path cost: 57
+2 -> 5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2
+Solution has path cost: 35
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7
+Solution has path cost: 35
+3 -> 7 -> 2 -> 5 -> 8 -> 6 -> 9 -> 4 -> 1 -> 3
+Solution has path cost: 50
+8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 35
+9 -> 1 -> 4 -> 3 -> 8 -> 5 -> 7 -> 2 -> 6 -> 9
+Solution has path cost: 48
+7 -> 2 -> 1 -> 4 -> 9 -> 6 -> 5 -> 8 -> 3 -> 7
+Solution has path cost: 46
+8 -> 5 -> 7 -> 3 -> 4 -> 9 -> 1 -> 2 -> 6 -> 8
+Solution has path cost: 40
+9 -> 1 -> 2 -> 7 -> 5 -> 8 -> 3 -> 4 -> 6 -> 9
+Solution has path cost: 48
+8 -> 3 -> 7 -> 5 -> 4 -> 6 -> 2 -> 1 -> 9 -> 8
+Solution has path cost: 39
+2 -> 6 -> 8 -> 3 -> 4 -> 1 -> 9 -> 5 -> 7 -> 2
+Solution has path cost: 49
+4 -> 5 -> 7 -> 3 -> 8 -> 9 -> 1 -> 2 -> 6 -> 4
+Solution has path cost: 39
+4 -> 9 -> 7 -> 3 -> 1 -> 2 -> 6 -> 8 -> 5 -> 4
+Solution has path cost: 54
+3 -> 7 -> 2 -> 6 -> 5 -> 4 -> 1 -> 9 -> 8 -> 3
+Solution has path cost: 50
+4 -> 1 -> 7 -> 3 -> 8 -> 5 -> 2 -> 6 -> 9 -> 4
+Solution has path cost: 52
+3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 9 -> 6 -> 8 -> 3
+Solution has path cost: 35
+5 -> 2 -> 1 -> 4 -> 9 -> 3 -> 8 -> 6 -> 7 -> 5
+Solution has path cost: 56
+2 -> 6 -> 8 -> 3 -> 7 -> 5 -> 9 -> 4 -> 1 -> 2
+Solution has path cost: 36
+3 -> 8 -> 5 -> 9 -> 1 -> 4 -> 6 -> 2 -> 7 -> 3
+Solution has path cost: 46
+2 -> 5 -> 4 -> 6 -> 9 -> 1 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 51
+9 -> 5 -> 2 -> 1 -> 4 -> 7 -> 3 -> 8 -> 6 -> 9
+Solution has path cost: 47
+3 -> 4 -> 1 -> 2 -> 6 -> 9 -> 7 -> 5 -> 8 -> 3
+Solution has path cost: 50
+1 -> 2 -> 6 -> 4 -> 8 -> 3 -> 7 -> 5 -> 9 -> 1
+Solution has path cost: 49
+
+For Generations: 100 and Population: 16, average path cost over 30 trials is 46, and best result was 35 
+
+Generations: 200, Pop: 16
+
+5 -> 9 -> 6 -> 8 -> 3 -> 7 -> 2 -> 1 -> 4 -> 5
+Solution has path cost: 44
+8 -> 6 -> 2 -> 1 -> 9 -> 4 -> 3 -> 7 -> 5 -> 8
+Solution has path cost: 40
+2 -> 5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2
+Solution has path cost: 35
+7 -> 5 -> 2 -> 1 -> 6 -> 4 -> 9 -> 8 -> 3 -> 7
+Solution has path cost: 45
+6 -> 3 -> 7 -> 5 -> 8 -> 9 -> 4 -> 1 -> 2 -> 6
+Solution has path cost: 53
+7 -> 5 -> 3 -> 8 -> 9 -> 6 -> 4 -> 1 -> 2 -> 7
+Solution has path cost: 57
+2 -> 1 -> 4 -> 9 -> 6 -> 5 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 46
+4 -> 6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 9 -> 1 -> 4
+Solution has path cost: 39
+3 -> 8 -> 5 -> 7 -> 2 -> 1 -> 6 -> 9 -> 4 -> 3
+Solution has path cost: 54
+2 -> 1 -> 9 -> 4 -> 3 -> 7 -> 5 -> 8 -> 6 -> 2
+Solution has path cost: 40
+3 -> 7 -> 4 -> 9 -> 1 -> 2 -> 6 -> 8 -> 5 -> 3
+Solution has path cost: 60
+3 -> 4 -> 1 -> 8 -> 9 -> 6 -> 2 -> 5 -> 7 -> 3
+Solution has path cost: 46
+4 -> 6 -> 8 -> 9 -> 1 -> 2 -> 5 -> 7 -> 3 -> 4
+Solution has path cost: 42
+6 -> 5 -> 7 -> 3 -> 2 -> 1 -> 4 -> 9 -> 8 -> 6
+Solution has path cost: 52
+6 -> 2 -> 1 -> 9 -> 4 -> 8 -> 3 -> 7 -> 5 -> 6
+Solution has path cost: 51
+2 -> 5 -> 4 -> 1 -> 9 -> 7 -> 3 -> 8 -> 6 -> 2
+Solution has path cost: 49
+2 -> 1 -> 9 -> 6 -> 8 -> 3 -> 4 -> 5 -> 7 -> 2
+Solution has path cost: 48
+1 -> 3 -> 7 -> 2 -> 5 -> 4 -> 6 -> 8 -> 9 -> 1
+Solution has path cost: 54
+4 -> 6 -> 9 -> 5 -> 2 -> 7 -> 3 -> 8 -> 1 -> 4
+Solution has path cost: 50
+8 -> 3 -> 7 -> 5 -> 2 -> 6 -> 9 -> 4 -> 1 -> 8
+Solution has path cost: 41
+7 -> 3 -> 8 -> 5 -> 9 -> 6 -> 4 -> 1 -> 2 -> 7
+Solution has path cost: 44
+2 -> 6 -> 9 -> 5 -> 7 -> 3 -> 8 -> 4 -> 1 -> 2
+Solution has path cost: 47
+9 -> 6 -> 8 -> 5 -> 4 -> 1 -> 2 -> 7 -> 3 -> 9
+Solution has path cost: 49
+5 -> 2 -> 1 -> 4 -> 6 -> 9 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 37
+3 -> 8 -> 9 -> 5 -> 7 -> 4 -> 6 -> 2 -> 1 -> 3
+Solution has path cost: 56
+5 -> 7 -> 3 -> 8 -> 6 -> 2 -> 1 -> 4 -> 9 -> 5
+Solution has path cost: 36
+1 -> 4 -> 9 -> 6 -> 2 -> 5 -> 7 -> 3 -> 8 -> 1
+Solution has path cost: 41
+5 -> 8 -> 6 -> 9 -> 4 -> 1 -> 3 -> 7 -> 2 -> 5
+Solution has path cost: 50
+1 -> 3 -> 7 -> 5 -> 2 -> 6 -> 8 -> 9 -> 4 -> 1
+Solution has path cost: 44
+6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 6
+Solution has path cost: 35
+7 -> 3 -> 8 -> 5 -> 9 -> 6 -> 2 -> 1 -> 4 -> 7
+Solution has path cost: 47
+
+For Generations: 200 and Population: 16, average path cost over 30 trials is 46, and best result was 35 
+
+Generations: 50, Pop: 20
+
+2 -> 1 -> 4 -> 9 -> 6 -> 5 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 46
+5 -> 9 -> 6 -> 8 -> 3 -> 7 -> 2 -> 1 -> 4 -> 5
+Solution has path cost: 44
+6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 6
+Solution has path cost: 35
+1 -> 2 -> 6 -> 4 -> 9 -> 5 -> 7 -> 3 -> 8 -> 1
+Solution has path cost: 42
+5 -> 4 -> 6 -> 2 -> 1 -> 9 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 39
+7 -> 3 -> 8 -> 6 -> 2 -> 1 -> 9 -> 4 -> 5 -> 7
+Solution has path cost: 37
+3 -> 7 -> 5 -> 6 -> 2 -> 1 -> 4 -> 9 -> 8 -> 3
+Solution has path cost: 40
+7 -> 3 -> 8 -> 5 -> 2 -> 1 -> 6 -> 9 -> 4 -> 7
+Solution has path cost: 54
+6 -> 2 -> 5 -> 1 -> 4 -> 9 -> 7 -> 3 -> 8 -> 6
+Solution has path cost: 57
+9 -> 7 -> 3 -> 8 -> 5 -> 4 -> 6 -> 2 -> 1 -> 9
+Solution has path cost: 49
+8 -> 4 -> 6 -> 2 -> 1 -> 3 -> 7 -> 5 -> 9 -> 8
+Solution has path cost: 56
+1 -> 9 -> 5 -> 4 -> 6 -> 8 -> 3 -> 7 -> 2 -> 1
+Solution has path cost: 46
+3 -> 8 -> 1 -> 4 -> 5 -> 9 -> 6 -> 2 -> 7 -> 3
+Solution has path cost: 50
+8 -> 5 -> 7 -> 2 -> 6 -> 9 -> 1 -> 4 -> 3 -> 8
+Solution has path cost: 48
+2 -> 6 -> 9 -> 1 -> 4 -> 5 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 45
+5 -> 7 -> 4 -> 1 -> 2 -> 3 -> 8 -> 9 -> 6 -> 5
+Solution has path cost: 63
+6 -> 5 -> 7 -> 3 -> 2 -> 1 -> 4 -> 8 -> 9 -> 6
+Solution has path cost: 63
+9 -> 1 -> 7 -> 3 -> 8 -> 5 -> 2 -> 6 -> 4 -> 9
+Solution has path cost: 54
+9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 5 -> 7 -> 3 -> 9
+Solution has path cost: 41
+7 -> 3 -> 8 -> 1 -> 2 -> 6 -> 9 -> 5 -> 4 -> 7
+Solution has path cost: 53
+8 -> 3 -> 7 -> 2 -> 5 -> 4 -> 1 -> 9 -> 6 -> 8
+Solution has path cost: 45
+8 -> 3 -> 4 -> 6 -> 7 -> 1 -> 2 -> 5 -> 9 -> 8
+Solution has path cost: 73
+2 -> 6 -> 9 -> 1 -> 4 -> 5 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 45
+8 -> 4 -> 1 -> 2 -> 6 -> 3 -> 7 -> 5 -> 9 -> 8
+Solution has path cost: 65
+3 -> 8 -> 9 -> 1 -> 2 -> 7 -> 5 -> 6 -> 4 -> 3
+Solution has path cost: 53
+5 -> 7 -> 3 -> 8 -> 1 -> 2 -> 6 -> 4 -> 9 -> 5
+Solution has path cost: 42
+2 -> 5 -> 9 -> 7 -> 3 -> 8 -> 6 -> 4 -> 1 -> 2
+Solution has path cost: 48
+8 -> 9 -> 3 -> 7 -> 5 -> 4 -> 6 -> 2 -> 1 -> 8
+Solution has path cost: 49
+9 -> 4 -> 6 -> 8 -> 5 -> 2 -> 7 -> 3 -> 1 -> 9
+Solution has path cost: 52
+1 -> 2 -> 5 -> 7 -> 3 -> 9 -> 8 -> 6 -> 4 -> 1
+Solution has path cost: 43
+3 -> 7 -> 5 -> 2 -> 1 -> 9 -> 8 -> 6 -> 4 -> 3
+Solution has path cost: 42
+
+For Generations: 50 and Population: 20, average path cost over 30 trials is 49, and best result was 35 
+
+Generations: 100, Pop: 20
+
+3 -> 8 -> 5 -> 2 -> 1 -> 9 -> 6 -> 4 -> 7 -> 3
+Solution has path cost: 48
+1 -> 2 -> 7 -> 3 -> 4 -> 5 -> 8 -> 6 -> 9 -> 1
+Solution has path cost: 48
+7 -> 2 -> 6 -> 4 -> 5 -> 8 -> 9 -> 1 -> 3 -> 7
+Solution has path cost: 54
+4 -> 1 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2 -> 4
+Solution has path cost: 47
+9 -> 4 -> 6 -> 8 -> 3 -> 1 -> 2 -> 7 -> 5 -> 9
+Solution has path cost: 51
+2 -> 1 -> 4 -> 9 -> 5 -> 7 -> 3 -> 8 -> 6 -> 2
+Solution has path cost: 36
+9 -> 6 -> 8 -> 3 -> 4 -> 1 -> 2 -> 5 -> 7 -> 9
+Solution has path cost: 50
+4 -> 3 -> 7 -> 5 -> 2 -> 1 -> 8 -> 9 -> 6 -> 4
+Solution has path cost: 46
+1 -> 6 -> 4 -> 9 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1
+Solution has path cost: 45
+2 -> 1 -> 4 -> 5 -> 9 -> 6 -> 8 -> 3 -> 7 -> 2
+Solution has path cost: 44
+9 -> 1 -> 2 -> 5 -> 7 -> 3 -> 4 -> 6 -> 8 -> 9
+Solution has path cost: 42
+5 -> 7 -> 3 -> 8 -> 1 -> 9 -> 4 -> 6 -> 2 -> 5
+Solution has path cost: 43
+1 -> 4 -> 3 -> 7 -> 5 -> 2 -> 6 -> 9 -> 8 -> 1
+Solution has path cost: 46
+7 -> 2 -> 1 -> 4 -> 5 -> 8 -> 3 -> 9 -> 6 -> 7
+Solution has path cost: 64
+4 -> 6 -> 9 -> 1 -> 2 -> 7 -> 3 -> 8 -> 5 -> 4
+Solution has path cost: 45
+1 -> 4 -> 7 -> 3 -> 8 -> 6 -> 9 -> 5 -> 2 -> 1
+Solution has path cost: 47
+4 -> 9 -> 1 -> 2 -> 6 -> 8 -> 3 -> 7 -> 5 -> 4
+Solution has path cost: 37
+5 -> 7 -> 3 -> 8 -> 9 -> 1 -> 2 -> 6 -> 4 -> 5
+Solution has path cost: 39
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7
+Solution has path cost: 35
+6 -> 8 -> 3 -> 7 -> 5 -> 9 -> 4 -> 1 -> 2 -> 6
+Solution has path cost: 36
+8 -> 6 -> 4 -> 1 -> 2 -> 9 -> 3 -> 7 -> 5 -> 8
+Solution has path cost: 58
+3 -> 7 -> 5 -> 9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 3
+Solution has path cost: 36
+7 -> 5 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 3 -> 7
+Solution has path cost: 47
+9 -> 4 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 9
+Solution has path cost: 37
+2 -> 5 -> 7 -> 3 -> 4 -> 1 -> 9 -> 8 -> 6 -> 2
+Solution has path cost: 42
+6 -> 4 -> 3 -> 7 -> 5 -> 2 -> 1 -> 9 -> 8 -> 6
+Solution has path cost: 42
+8 -> 6 -> 2 -> 1 -> 9 -> 4 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 37
+5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 1 -> 2 -> 4 -> 5
+Solution has path cost: 47
+7 -> 2 -> 6 -> 8 -> 9 -> 5 -> 4 -> 1 -> 3 -> 7
+Solution has path cost: 53
+5 -> 7 -> 3 -> 4 -> 1 -> 2 -> 6 -> 9 -> 8 -> 5
+Solution has path cost: 40
+7 -> 5 -> 2 -> 1 -> 9 -> 4 -> 6 -> 8 -> 3 -> 7
+Solution has path cost: 37
+
+For Generations: 100 and Population: 20, average path cost over 30 trials is 44, and best result was 35 
+
+Generations: 200, Pop: 20
+
+7 -> 5 -> 9 -> 4 -> 1 -> 2 -> 6 -> 8 -> 3 -> 7
+Solution has path cost: 36
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7
+Solution has path cost: 35
+5 -> 2 -> 6 -> 9 -> 1 -> 4 -> 7 -> 3 -> 8 -> 5
+Solution has path cost: 48
+8 -> 3 -> 7 -> 2 -> 1 -> 9 -> 5 -> 4 -> 6 -> 8
+Solution has path cost: 46
+3 -> 7 -> 5 -> 2 -> 6 -> 8 -> 9 -> 4 -> 1 -> 3
+Solution has path cost: 44
+5 -> 2 -> 1 -> 4 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 35
+7 -> 2 -> 1 -> 4 -> 9 -> 5 -> 6 -> 8 -> 3 -> 7
+Solution has path cost: 47
+1 -> 4 -> 9 -> 8 -> 3 -> 7 -> 5 -> 2 -> 6 -> 1
+Solution has path cost: 45
+4 -> 3 -> 7 -> 5 -> 2 -> 6 -> 8 -> 9 -> 1 -> 4
+Solution has path cost: 42
+2 -> 1 -> 4 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2
+Solution has path cost: 35
+8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 6 -> 9 -> 8
+Solution has path cost: 37
+9 -> 1 -> 2 -> 6 -> 4 -> 3 -> 7 -> 5 -> 8 -> 9
+Solution has path cost: 42
+5 -> 7 -> 3 -> 8 -> 9 -> 6 -> 2 -> 1 -> 4 -> 5
+Solution has path cost: 37
+1 -> 2 -> 5 -> 7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1
+Solution has path cost: 35
+6 -> 9 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4 -> 6
+Solution has path cost: 37
+1 -> 3 -> 7 -> 5 -> 9 -> 4 -> 2 -> 6 -> 8 -> 1
+Solution has path cost: 59
+6 -> 4 -> 3 -> 7 -> 5 -> 2 -> 1 -> 9 -> 8 -> 6
+Solution has path cost: 42
+2 -> 6 -> 8 -> 3 -> 7 -> 5 -> 9 -> 4 -> 1 -> 2
+Solution has path cost: 36
+7 -> 3 -> 4 -> 9 -> 1 -> 2 -> 6 -> 8 -> 5 -> 7
+Solution has path cost: 40
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7
+Solution has path cost: 35
+8 -> 6 -> 2 -> 1 -> 4 -> 9 -> 5 -> 7 -> 3 -> 8
+Solution has path cost: 36
+3 -> 7 -> 5 -> 8 -> 9 -> 1 -> 2 -> 6 -> 4 -> 3
+Solution has path cost: 42
+4 -> 6 -> 2 -> 1 -> 9 -> 8 -> 5 -> 7 -> 3 -> 4
+Solution has path cost: 42
+7 -> 3 -> 8 -> 9 -> 4 -> 5 -> 6 -> 1 -> 2 -> 7
+Solution has path cost: 56
+7 -> 3 -> 8 -> 6 -> 9 -> 4 -> 1 -> 2 -> 5 -> 7
+Solution has path cost: 35
+4 -> 1 -> 2 -> 5 -> 7 -> 3 -> 9 -> 8 -> 6 -> 4
+Solution has path cost: 43
+4 -> 9 -> 6 -> 8 -> 3 -> 7 -> 5 -> 2 -> 1 -> 4
+Solution has path cost: 35
+9 -> 7 -> 3 -> 1 -> 4 -> 2 -> 5 -> 8 -> 6 -> 9
+Solution has path cost: 64
+5 -> 4 -> 9 -> 6 -> 2 -> 1 -> 8 -> 3 -> 7 -> 5
+Solution has path cost: 41
+2 -> 6 -> 9 -> 8 -> 3 -> 7 -> 5 -> 4 -> 1 -> 2
+Solution has path cost: 37
+8 -> 3 -> 7 -> 5 -> 2 -> 6 -> 9 -> 4 -> 1 -> 8
+Solution has path cost: 41
+
+For Generations: 200 and Population: 20, average path cost over 30 trials is 41, and best result was 35 
+
+Overall Best was 35
